@@ -1,0 +1,29 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "Art and Experiments in the NFT world",
+  "main": "nft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedamian/NFTExperiments.git"
+  },
+  "keywords": [
+    "nft",
+    "art",
+    "damian"
+  ],
+  "author": "Damian Montero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedamian/NFTExperiments/issues"
+  },
+  "homepage": "https://github.com/thedamian/NFTExperiments#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}
